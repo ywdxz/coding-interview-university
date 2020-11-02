@@ -46,7 +46,7 @@
 
 </details>
 
-## What is it?
+## What is it? Reading
 
 This is my multi-month study plan for going from web developer (self-taught, no CS degree) to software engineer for a large company.
 
